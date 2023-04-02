@@ -1,0 +1,12 @@
+{
+  "name": "frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx 211ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
