@@ -1,0 +1,22 @@
+{
+    "name": "Basic template v1",
+    "url": "https://eleventy-pico.ch",
+    "authorName": "Michel Maillard",
+    "authorUrl": "https://michelmaillard.ch/",
+    "description": "Eleventy, Pico, Bootstrap, Blueprint without Sass processing template",
+    "favicon": "https://11ty.recipes/images/meta/favicon.svg",
+     "links": [
+       {
+         "text": "Home",
+         "url": "/"
+       },
+       {
+         "text": "Blog",
+         "url": "/posts/"
+       },
+       {
+         "text": "Contact",
+         "url": "/contact/"
+       }
+     ]
+   }
