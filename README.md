@@ -1,4 +1,6 @@
-# Eleventy, Pico, Bootstrap, Blueprint without Sass processing
+# Template 1
+
+## Eleventy, Pico, Bootstrap, Blueprint without Sass processing
 
 1. Installation
 2. Layout with global data
