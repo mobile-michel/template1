@@ -16,11 +16,16 @@ Do not put css or js inside content or layout files.
 
 Files & folders:
 
-- /@global
+- /@global/layout.html (header & footer slots)
+- /@global/style.css (basic stylesheet)
 - /@library
-- /images
+- /images/favicon.png
 - /404.md
+- /about.md
 - /index.md
+- /netlify.toml
+- /package.json
+- /README.md (this file)
 - /site.yaml
 
 Flow: main page with hero and image example.
