@@ -25,4 +25,6 @@ Files & folders:
 
 Flow: main page with hero and image example.
 
-Main navigation: inside /site.yaml with the <navi/> extension.
+Main navigation: inside /site.yaml with the \<navi/> extension.
+
+Deploy to Netlify.
