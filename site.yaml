@@ -6,5 +6,9 @@ libs: ["@library"]
 site_name: NueJS Template
 site_description: A NueJS template for building modern web applications.
 
+# Activate this line to set a base path for the GitHub Pages deployment.
 base: /template1
-inline_css: false
+
+nav:
+  - Home: /
+  - About: /about.html
