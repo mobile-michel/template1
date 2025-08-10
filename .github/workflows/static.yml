@@ -40,6 +40,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Debug environment
+        run: |
+          ls -la node_modules/.bin
+          npm list
+          which nue
+
       - name: Build project
         run: npm run build
 
