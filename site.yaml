@@ -5,3 +5,5 @@ libs: ["@library"]
 
 site_name: NueJS Template
 site_description: A NueJS template for building modern web applications.
+
+base_url: /template1
