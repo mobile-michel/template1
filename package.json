@@ -3,7 +3,7 @@
   "version": "1.0.0-RC.4",
   "description": "A NueJS website about YAML",
   "scripts": {
-    "build": "nue build -p"
+    "build": "npx nue build -p"
   },
   "engines": {
     "node": ">=22.0.0"
@@ -14,4 +14,4 @@
     "nuekit": "^1.0.0-RC.4",
     "nuemark": "^0.6.3"
   }
-} 
+}
